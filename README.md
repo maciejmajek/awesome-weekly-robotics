@@ -101,6 +101,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [Fields2Cover](https://github.com/Fields2Cover/Fields2Cover) - A modular and extensible Coverage Path Planning library. Licence: BSD-3-Clause.
  * [Segment Anything](https://github.com/facebookresearch/segment-anything) - The Segment Anything Model (SAM) produces high quality object masks from input prompts such as points or boxes, and it can be used to generate masks for all objects in an image. Licence: Apache 2.0.
  * [LeRobot](https://github.com/huggingface/lerobot) - Developped by Hugging Face, LeRobot provides models, datasets and tools for real-world robotics in PyTorch. Licence: Apache 2.0.
+ * [RAI](https://github.com/RobotecAI/rai) - Aa agentic framework for robotics that enables the development and deployment of Embodied AI features. It integrates generative AI, multi-agent systems, voice interaction, and ROS 2, allowing robots to perceive, reason, and act autonomously. Licence: Apache 2.0.
 
 ### SLAM
  * [Cartographer](https://github.com/googlecartographer/cartographer) - 2D and 3D SLAM library, supports multiple platforms and sensor configurations. Licence: Apache 2.0.
